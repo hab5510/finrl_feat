@@ -84,38 +84,55 @@ Using four different experimental setups, we compare agent performance across:
 ---
 
 ## Repository Contents
-/README.md
+
+
+```
+README.md
 
 /without_sentiment/
-├── FinRL_without_SentimentAnalysis.ipynb
-├── profile_noSA.png
-├── evaluation_metrics_noSA.png
-├── result_noSA.csv
-├── evaluation_metrics_table_noSA.csv
-└── processed_full_noSA.csv
+    FinRL_without_SentimentAnalysis.ipynb  
+    profile_noSA.png  
+    evaluation_metrics_noSA.png  
+    result_noSA.csv  
+    evaluation_metrics_table_noSA.csv  
+    processed_full_noSA.csv  
 
 /with_sentiment/
-├── FinRL_with_SentimentAnalysis.ipynb
-├── profile.png
-├── metrics.png
-├── result.csv
-└── evaluation_metrics_table.csv
-└── processed_full.csv
+    FinRL_with_SentimentAnalysis.ipynb  
+    profile.png  
+    metrics.png  
+    result.csv  
+    evaluation_metrics_table.csv  
+    processed_full.csv  
 
 /with_sentiment_optimized/
-├── FinRL_with_SentimentAnalysis_optimized.ipynb
-├── profile.png
-├── evaluation_metrics_comaprison.png
-├── result.csv
-└── evaluation_metrics_table.csv
-└── processed_full_smoothing_scaling.csv
+    FinRL_with_SentimentAnalysis_optimized.ipynb  
+    profile.png  
+    evaluation_metrics_comaprison.png  
+    result.csv  
+    evaluation_metrics_table.csv  
+    processed_full_smoothing_scaling.csv  
 
+/with_sentiment_optimized_volatility/
+    FinRL_with_SentimentAnalysis_optimized_volatility.ipynb  
+    profile.png  
+    evaluation_metrics.png  
+    result.csv  
+    evaluation_metrics_table.csv  
+    processed_full_smoothing_scaling_volatility.csv  
+
+/report/
+    Report_SentimentAnalysis_Hana.docx  
+    cumulative_return_sharpe_ratio_all.png  
+    cumulative_return_sharpe_ratio_all.csv  
+    profile_value_all.csv  
+```
 
 ---
 
 ## Full Report
 
-./report/Report_SentimentAnalysis_Hana.docx
+[Download the full report (DOCX)](./report/Report_SentimentAnalysis_Hana.docx)
 
 ---
 
