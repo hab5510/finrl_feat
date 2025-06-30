@@ -132,8 +132,8 @@ README.md
 
 ## Full Report
 
-  Exist under this path ./report/Report_SentimentAnalysis_Hana.docx 
-  [Download the full report (DOCX)](./report/Report_SentimentAnalysis_Hana.docx) 
+  Exist under this path: ./report/Report_SentimentAnalysis_Hana.pdf
+  [Download the full report (PDF)](./report/Report_SentimentAnalysis_Hana.pdf) 
 
 ---
 
