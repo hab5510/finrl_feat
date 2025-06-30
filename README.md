@@ -132,7 +132,7 @@ README.md
 
 ## Full Report
 
-  [./report/Report_SentimentAnalysis_Hana.pdf)](./report/Report_SentimentAnalysis_Hana.pdf)
+  [./report/Report_SentimentAnalysis_Hana.pdf](./report/Report_SentimentAnalysis_Hana.pdf)
 
 ---
 
