@@ -45,10 +45,10 @@ Using four different experimental setups, we compare agent performance across:
 
 | Experiment | Sentiment Input | Preprocessing |
 |-----------|------------------|---------------|
-| 1         | ❌ No sentiment   | —             |
-| 2         | ✅ Raw sentiment  | None          |
-| 3         | ✅ Sentiment      | Filtered, EMA, normalized |
-| 4         | ✅ Sentiment + Volatility | Filtered, EMA, normalized, Std Dev |
+| 1         | No sentiment   | —             |
+| 2         | Raw sentiment  | None          |
+| 3         | Sentiment      | Filtered, EMA, normalized |
+| 4         | Sentiment + Volatility | Filtered, EMA, normalized, Std Dev |
 
 ---
 
