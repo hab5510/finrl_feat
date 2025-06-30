@@ -132,7 +132,7 @@ README.md
 
 ## Full Report
 
-[Download the full report (DOCX)](./report/Report_SentimentAnalysis_Hana.docx)
+  ./report/Report_SentimentAnalysis_Hana.docx [Download the full report (DOCX)](./report/Report_SentimentAnalysis_Hana.docx) 
 
 ---
 
@@ -146,19 +146,4 @@ README.md
 - Bollen, J., Mao, H., & Zeng, X. (2011). *Twitter mood predicts the stock market.* Journal of Computational Science.
 
 ---
-
-
-/with_sentiment_optim_SentVolat/
-├── FinRL_with_SentimentAnalysis_optimization_and_sentimentvolatility.ipynb
-├── profile_sa_optandSV.png
-├── eval_sawithoptandsv.png
-├── result_final_sentvolat.csv
-└── evaluation_metrics_table_sentvolat.csv
-└── processed_full_filtered_scaled.csv
-
-/report/
-├── Report_SentimentAnalysis_Hana.docx
-├── cumulative_return_sharpe_ratio_all.png
-├── cumulative_return_sharpe_ratio_all.csv
-└── profile_value_all.csv
 
