@@ -132,7 +132,7 @@ README.md
 
 ## Full Report
 
-  [./report/FinRL_SentimentAnalysi.pdf](./report/FinRL_SentimentAnalysis.pdf)
+  [FinRL_SentimentAnalysis.pdf](./report/FinRL_SentimentAnalysis.pdf)
 
 ---
 
