@@ -138,12 +138,15 @@ README.md
 
 ## References
 
-- Huang, B., et al. (2020). *FinBERT: A Pretrained Language Model for Financial Communications.*
-- Ye, H., & Zhang, Z. (2020). *Deep Reinforcement Learning for Automated Stock Trading.*
-- FinRL Library: https://github.com/AI4Finance-Foundation/FinRL  
-- Yahoo Finance: https://finance.yahoo.com  
-- fnspid Dataset: https://github.com/Zdong104/FNSPID_Financial_News_Dataset.git  
-- Bollen, J., Mao, H., & Zeng, X. (2011). *Twitter mood predicts the stock market.* Journal of Computational Science.
+[1]	Tetlock, P. C. (2007). Giving Content to Investor Sentiment: The Role of Media in the Stock Market. *Journal of Finance*, 62(3), 1139–1168. https://doi.org/10.1111/j.1540-6261.2007.01232.x
+[2]	 Bollen, J., Mao, H., & Zeng, X. (2011). *Twitter mood predicts the stock market*. Journal of Computational Science, 2(1), 1–8. https://doi.org/10.1016/j.jocs.2010.12.007
+[3]	Huang, B., et al. (2020). “FinBERT: A Pretrained Language Model for Financial Communications.” Hugging Face: https://huggingface.co/yiyanghkust/finbert-tone  
+[4]	FinRL GitHub: https://github.com/AI4Finance-Foundation/FinRL
+[5]	FNSPID https://huggingface.co/papers/2402.06698
+[6]	Raffin, A., et al. (2021). Stable-Baselines3: Reliable Reinforcement Learning Implementations. https://stable-baselines3.readthedocs.io/
+[7]	Ye, H., & Zhang, Z. (2020). “Deep Reinforcement Learning for Automated Stock Trading.” 
+[8]	Yahoo Finance API. Historical Market Data. https://finance.yahoo.com  
+[9]	pandas Documentation – ewm: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.ewm.html
 
 ---
 
