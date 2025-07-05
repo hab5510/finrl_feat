@@ -122,7 +122,7 @@ README.md
     processed_full_smoothing_scaling_volatility.csv  
 
 /report/
-    Report_SentimentAnalysis_Hana.docx  
+    FinRL_SentimentAnalysis.pdf 
     cumulative_return_sharpe_ratio_all.png  
     cumulative_return_sharpe_ratio_all.csv  
     profile_value_all.csv  
